@@ -4,8 +4,7 @@ A full-stack authentication module using **React (frontend)**, **Node.js + Expre
 Supports **user registration, login, profile page**, and **JWT authentication**.
 
 ---
-
-1. Clone the repository
+ Clone the repository
 
 To get the backend, clone the main branch:
 git clone -b main <repo-url> backend
