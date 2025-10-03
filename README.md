@@ -14,13 +14,13 @@ To get the frontend, clone the frontend branch:
 git clone -b frontend <repo-url> frontend
 
 Backend Setup
+
  backend folder: cd backend
  Install : npm install
 
 Frontend Setup
 
-Go to the frontend folder: cd frontend
-
+frontend folder: cd frontend
 Install : npm install
 Start the React app: npm start
 runs at http://localhost:3000 and should open in your browser 
