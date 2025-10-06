@@ -22,5 +22,5 @@ Frontend Setup
 frontend folder: cd frontend
 Install : npm install
 Start the React app: npm start
-runs at http://localhost:3000 and should open in your browser 
+
 
