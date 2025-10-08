@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fullstack-module/static/css/main.1eb24ee6.css",
+    "main.js": "/fullstack-module/static/js/main.3b44f12e.js",
+    "index.html": "/fullstack-module/index.html",
+    "main.1eb24ee6.css.map": "/fullstack-module/static/css/main.1eb24ee6.css.map",
+    "main.3b44f12e.js.map": "/fullstack-module/static/js/main.3b44f12e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb24ee6.css",
+    "static/js/main.3b44f12e.js"
+  ]
+}
